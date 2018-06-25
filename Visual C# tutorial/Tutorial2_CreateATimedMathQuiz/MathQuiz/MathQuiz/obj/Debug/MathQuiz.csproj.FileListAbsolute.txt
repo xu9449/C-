@@ -1,0 +1,9 @@
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\kexin.xu\Desktop\Visual C# tutorial\Tutorial2_CreateATimedMathQuiz\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
