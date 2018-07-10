@@ -1,0 +1,9 @@
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\bin\Debug\Project1_Pomodoro.exe.config
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\bin\Debug\Project1_Pomodoro.exe
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\bin\Debug\Project1_Pomodoro.pdb
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\obj\Debug\Project1_Pomodoro.csprojResolveAssemblyReference.cache
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\obj\Debug\Project1_Pomodoro.Form1.resources
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\obj\Debug\Project1_Pomodoro.Properties.Resources.resources
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\obj\Debug\Project1_Pomodoro.csproj.GenerateResource.Cache
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\obj\Debug\Project1_Pomodoro.exe
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\Project1_Pomodoro\Project1_Pomodoro\obj\Debug\Project1_Pomodoro.pdb
