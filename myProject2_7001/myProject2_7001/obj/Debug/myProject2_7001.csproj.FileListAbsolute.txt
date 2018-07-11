@@ -1,0 +1,15 @@
+C:\Users\kexin.xu\Downloads\C#StepByStep\Visual CSharp Step By Step\Chapter 14\Windows 7\myProject2_7001\myProject2_7001\bin\Debug\myProject2_7001.exe.config
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\myProject2_7001.exe.config
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\obj\Debug\myProject2_7001.csprojResolveAssemblyReference.cache
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\obj\Debug\myProject2_7001.Form1.resources
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\obj\Debug\myProject2_7001.Properties.Resources.resources
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\obj\Debug\myProject2_7001.csproj.GenerateResource.Cache
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\myProject2_7001.exe
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\myProject2_7001.pdb
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\FinOE.DLL
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\NationalInstruments.Common.dll
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\NationalInstruments.NI4882.dll
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\bin\Debug\ZedGraph.dll
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\obj\Debug\myProject2_7001.exe
+C:\Users\kexin.xu\Desktop\myProject2_7001\myProject2_7001\obj\Debug\myProject2_7001.pdb
