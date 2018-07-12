@@ -15,7 +15,7 @@ namespace myProject2_7001
     {
         public Ke7001 Ke7001Ctrl = new Ke7001();
        
-        private byte ke7001_gpib{
+        private byte Ke7001_gpib{
             get { return (byte)Ke7001GpibAddress.Value; }
             set
             {
@@ -44,8 +44,21 @@ namespace myProject2_7001
            turnOffChannel( );
        }
 
-#endregion
+       private void button7002_Scan_Click(object sender, EventArgs e)
+       {
+           Ke7001_Init();
+           scanForTosa_R();
+           
+       }
 
+#endregion
+       private bool scanForTosa_R()
+       {
+           bool retValue = false;
+           Ke7001Ctrl.Connect();
+           Ke7001Ctrl.ScanChannel();
+           return (retValue);
+       }
        private bool turnOnChannel()
        {
            bool retValue = false;
@@ -94,7 +107,7 @@ namespace myProject2_7001
 
             string answer = "";
 
-            Ke7001Ctrl.Settings.GpibAddress = ke7001_gpib;
+            Ke7001Ctrl.Settings.GpibAddress = Ke7001_gpib;
             //Ke7001Ctrl.Settings.GpibAddress = 10;
             Ke7001Ctrl.Settings.GpibTimeout = TimeoutValue.T30s;
 
@@ -126,6 +139,29 @@ namespace myProject2_7001
         {
 
         }
+
+        private void richTextBox_Log_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label_Status_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 aaa = new Form2();
+            aaa.Show( );
+
+            
+        }
+
+        //private void button7002_Scan_Click(object sender, EventArgs e)
+        //{
+
+        //}
 
 
     }

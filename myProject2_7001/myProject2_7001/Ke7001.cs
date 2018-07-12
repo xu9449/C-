@@ -32,7 +32,7 @@ namespace myProject2_7001
   public class Ke7001Settings {
     public byte GpibAddress;
     public TimeoutValue GpibTimeout;
-    public int Ke2400_Channel = 1;
+    //public int Ke2400_Channel = 1;
     public int Pc_Channel = 1;
     public int Gain_Channel = 1;
     public int Soa_Channel = 1;
@@ -167,14 +167,14 @@ namespace myProject2_7001
       }
     }
 
-    public int Ke2400Channel {
-      set {
-        settings_.Ke2400_Channel = value;
-      }
-      get {
-        return settings_.Ke2400_Channel;
-      }
-    }
+    //public int Ke2400Channel {
+    //  set {
+    //    settings_.Ke2400_Channel = value;
+    //  }
+    //  get {
+    //    return settings_.Ke2400_Channel;
+    //  }
+    //}
     public int PcChannel {
       set {
         settings_.Pc_Channel = value;
@@ -340,19 +340,9 @@ namespace myProject2_7001
         }
     }
 
-    //public bool OpenChannel( int Port1, int Port2 ) {
-    //  try {
-    //    gpib_.Write( "Open (@" + Port1.ToString( ) + "!" + Port2.ToString( ) + ")" );
-    //    Thread.Sleep( 20 );
-    //    return true;
-    //  }
-    //  catch( Exception ex ) {
-    //    throw new Keithley7002Error( "Error OutPutOn Keithley7002", ex );
-    //  }
-    //}
           public bool OpenChannel( int Port1, int Port2 ) {
       try {
-        gpib_.Write( "Open (@" + Port1.ToString( ) + "!" + Port2.ToString( ) + ")" );
+        gpib_.Write( ":open (@" + Port1.ToString( ) + "!" + Port2.ToString( ) + ")" );
         Thread.Sleep( 20 );
         return true;
       }
@@ -360,6 +350,36 @@ namespace myProject2_7001
         throw new Ke7001Error( "Error OutPutOn Keithley7002", ex );
       }
     }
+      public void ScanChannel(){
+          try{
+              string command1 = ":open all";
+              string command2 = "*RST";
+              string command3 = ":scan (@1!1,1!2,1!4,1!6,1!7,1!10,1!11,1!21,1!2,1!3,1!22,1!10,1!23,1!24)";
+              string command4 = ":trig:coun:auto on";
+              string command5 = ":trig:del 1";
+              string command6 = ":init";
+              //string command7 = ":clos (@1!24)";
+              //string command7 = "*OPC";
+              //string command8 = "*ESR?";
+              gpib_.Write(command1);
+              gpib_.Write(command2);
+              gpib_.Write(command3);
+              gpib_.Write(command4);
+              gpib_.Write(command5);
+              gpib_.Write(command6);
+              //gpib_.Write(command7);
+              //gpib_.Write(command7);
+              //gpib_.Write(command8);
+
+
+
+          }
+          catch (Exception ex)
+          {
+              throw new Ke7001Error("Error open all Channels of Keithley7001", ex);
+          }
+      }
+
 
     public void OpenAllChan( ) {
       try {
