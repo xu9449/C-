@@ -1,4 +1,6 @@
 # C#
+  
+  [一些笔记](https://github.com/xu9449/C-_/wiki/My-Program)
 # My Program
 
 ## Internship Program  
