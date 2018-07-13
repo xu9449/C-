@@ -12,4 +12,6 @@
 07/11 Connect Ke2400 driver and GUI with 7001 GUI.
    
 ## Personal Program 
-POMODORO for work time tracking
+POMODORO for work time tracking  
+目标实现功能，计算番茄数，时间时间利用率。  
+实现计划表导入功能（每日三个目标功能）
