@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="myProject2_7001.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="lotNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TF1408DA2</Value>
+    </Setting>
+    <Setting Name="serialNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TF1408DA2-01</Value>
+    </Setting>
+    <Setting Name="operatorName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sean</Value>
+    </Setting>
+    <Setting Name="testPhase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+    <Setting Name="configFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11432541345</Value>
+    </Setting>
+    <Setting Name="dataOutputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2ret</Value>
+    </Setting>
+    <Setting Name="ke2400_gpib" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ke7001_gpib" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="compliance" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
