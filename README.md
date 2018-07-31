@@ -9,7 +9,10 @@
 ### 实现功能  
 控制Ke2400和Ke7001对QSFP28G 14个通道进行时序测试 输出测试结果到指定cvs文件   
 导入Spec .cvs文件进行specification    
-简化控制，一键操作
+简化控制，一键操作  
+7.31_update  
+1)增加2400 sweep功能  
+2）输出excel进行plot
 
 ### Driver + GUI for Keithley 2602B SOURCEMETER
 06/25 Write Script for Frank's testing.  
